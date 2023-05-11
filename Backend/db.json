@@ -1,0 +1,48 @@
+{
+    "products" : [
+        {
+            "id":123,
+            "name": "orange",
+            "price": "2",
+            "description": "orange is a fruit",
+            "image": "https://images.pexels.com/photos/327098/pexels-photo-327098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id":1234,
+            "name": "Milk",
+            "price": "3",
+            "description": "Milk Is a dairy Product",
+            "image": "https://images.pexels.com/photos/236010/pexels-photo-236010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        
+        {
+            "id":1235,
+            "name": "Ice Cream",
+            "price": "4",
+            "description": "You lick it you love it",
+            "image": "https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        }
+        ,
+        {
+            "id":1236,
+            "name": "Salmon",
+            "price": "10",
+            "description": "Salmon is a fish",
+            "image": "https://images.pexels.com/photos/2683281/pexels-photo-2683281.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+            "id":1237,
+            "name": "WaterMelon",
+            "price": "10",
+            "description": "WaterMelon is a a fruit",
+            "image": "https://images.pexels.com/photos/5946081/pexels-photo-5946081.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        },
+        {
+            "id":1238,
+            "name": "Potato",
+            "price": "7.50",
+            "description": "Potato is a vegitable",
+            "image": "https://images.pexels.com/photos/144248/potatoes-vegetables-erdfrucht-bio-144248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ]
+}
